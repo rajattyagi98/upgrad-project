@@ -1,2 +1,1 @@
-# upgrad-project
-This is a project made while pursuing FULL STACK WEB DEVELOPMENT
+![image](https://github.com/rajattyagi98/upgrad-project/assets/43870624/84106fcf-c4f0-4515-9b18-1bb8c2b8bbcd)
