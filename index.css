@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Montez&display=swap");
+.author{
+    background-color: grey;
+    align-content: center;
+}
+.mainHeading{
+    font-family: Montez, cursive;
+    font-size: 40px;
+    color: blue;
+}
+.subHeading{
+    font-size: 15px;
+}
+.buttons{
+ align-items: center;
+}

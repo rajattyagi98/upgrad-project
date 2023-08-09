@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Montez&display=swap");
+.postauthor{
+    align-content: center;
+    align-items: center;
+}
+.postbody{
+    background-color: lightgrey;
+}
+.mainHeading{
+    font-family: Montez, cursive;
+    font-size: 40px;
+    color: blue;
+}
+.subHeading, .container-fluid{
+    background-color: lightyellow;
+    font-size: 15px;
+}
+.container, .headcontainer, .navbar, .newbody {
+    background-color: lightyellow;
+}
